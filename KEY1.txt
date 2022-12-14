@@ -1,0 +1,10 @@
+
+step 1 - First start the server and join that server of mrrobot from terminal by typing IP address in the browser
+
+step 2 - so for the first step go to the end of the ip address and type /robots.txt
+
+step 3 - then you have to the end of the IP address again and type /key-1-of-3.txt
+
+so there is the key 
+
+KEY 1 :073403c8a58a1f80d943455fb30724b9
